@@ -113,9 +113,9 @@ Boxplots are used to visualize the horsepower distribution before and after clea
 Project Structure
 project-folder
 │
-├── mtcars.csv
 ├── Mtcars.ipynb
-└── README.md
+├── README.md
+└── mtcars.csv
 
 ## Results
 
